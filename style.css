@@ -1,1 +1,68 @@
 
+   main{
+         
+    color:rgb(5, 87, 87);
+  background-image: url(https://img.freepik.com/premium-photo/abstract-mosaic-background_670147-89271.jpg?semt=ais_hybrid&w=740);
+        }
+        
+        
+    h2{
+
+        color:rgb(5, 87, 87);
+        
+        background-image: url(https://i.pinimg.com/originals/58/ee/b4/58eeb4f20c3404562cf4cd5cd99b4612.gif);
+
+    }
+  
+
+   
+   body{
+    color:rgb(5, 87, 87);
+    background-image: url(https://img.freepik.com/premium-photo/abstract-mosaic-background_670147-89271.jpg?semt=ais_hybrid&w=740);
+
+
+   }
+   
+
+   .porta{
+
+    background-image: url(https://img.freepik.com/premium-photo/abstract-mosaic-background_670147-89271.jpg?semt=ais_hybrid&w=740);
+
+   }
+
+   header{
+    color:rgb(5, 87, 87);
+    background-image: url(https://i.pinimg.com/originals/58/ee/b4/58eeb4f20c3404562cf4cd5cd99b4612.gif);
+
+   }
+
+   aside{
+    flex:1;
+    align-content: center;
+  
+    
+
+   }
+   h3{
+
+    color:rgb(8, 143, 143);
+    
+    background-image: url(https://i.pinimg.com/originals/58/ee/b4/58eeb4f20c3404562cf4cd5cd99b4612.gif);
+
+}
+h1{
+
+    color:rgb(8, 143, 143);
+    
+    background-image: url(https://i.pinimg.com/originals/58/ee/b4/58eeb4f20c3404562cf4cd5cd99b4612.gif);
+
+}
+span{
+    color:rgb(5, 83, 83);
+    size: 200px;
+}
+
+section{
+    color:rgb(5, 83, 83); 
+}
+   
