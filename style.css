@@ -9,11 +9,16 @@
     h2{
 
         color:rgb(5, 87, 87);
+        size: 50px;
         
         background-image: url(https://i.pinimg.com/originals/58/ee/b4/58eeb4f20c3404562cf4cd5cd99b4612.gif);
 
     }
   
+h4{
+    color:rgb(5, 87, 87);
+    size: 50px;
+}
 
    
    body{
